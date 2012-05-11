@@ -15,6 +15,6 @@ Following is a list of reasons I want an employee of mine referring someone to m
 1. The person being referred is beyond awesome at what they do and we'd be fools not to hire them.
 2. Did you not read #1?
 
-When I hold a $10,000 gun to the referrer's head I'm distracting them from that **one** simple reason. When there's no bonus involved there are people the employee will refer and people they won't. With the money hanging out there a third category of people opens up: people the employee will refer if they can get $10,000. This third category is made up completely from the people the employee wouldn't have referred if the bonus didn't exist.
+When I hold a $10,000 gun to the referrer's head I'm distracting them from that **one** simple reason. When there's no bonus involved there are people the employee will refer and people they won't. With the money hanging out there a third category of people opens up: people the employee will refer if they can get $10,000. This third category is made up completely from the people the employee wouldn't have referred if the bonus didn't exist. I don't want any of these people in the third category.
 
 The absolute **last** thing I want to do is turn my employees into contingency recruiters and that's exactly what the referral bonus does.
