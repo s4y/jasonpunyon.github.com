@@ -20,3 +20,5 @@ When I hold a $10,000 gun to the referrer's head I'm distracting them from that 
 The absolute **last** thing I want to do is turn my employees into contingency recruiters and that's exactly what the referral bonus does.
 
 So if referral bonuses aren't right how *do* you get your employees to refer great talent to the company and the company to great talent?  Make your company such an awesome place to be and work that your employees naturally want to do that.  Figure out what your employees want and then **give it to them**.  Great health care, free lunch, 20% time...whatever.  They'll be so happy with you that they won't be able to contain themselves when they find out a friend is looking for a job.
+
+If you want to hear my thoughts on some of the responses to this post, read my follow up [here]({% post_url 2012-05-12-employee-referral-bonuses-are-pants-on-head-stupid-follow-up %})
