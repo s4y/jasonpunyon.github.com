@@ -1,0 +1,89 @@
+---
+layout: post
+title: "How I Got My Dream Job at Stack Exchange"
+date: 2012-05-15 11:02
+comments: true
+categories: [Stack Exchange]
+published: true
+---
+
+Matt recently wrote his [story](blog.mattjibson.com/2012/04/How-I-got-a-job-at-Stack-Overflow-8) about how he got his job at Stack Exchange and I thought it was such a good idea that I'd go ahead an write my own. This is my long rambling account of my path to my dream job.
+
+### Getting bit by the bug ###
+
+I was a physics major. I spent the summers of my college years at the 88" Cyclotron at UC Berkeley helping in the preparation, execution and analysis of medium energy nuclear physics experiments. The summer after your freshman year, you don't know jack about <strike>nuclear</strike> physics. 
+
+So what do they do with a kid who knows nothing about nuclear physics at a nuclear physics lab? Stick him in front of a computer, of course. Give him a C library that knows the physics so that he just needs to learn to configure it correctly to spit out the needed answer. So I did that. I built a 3D model of Gammasphere and our specialized particle detector using this library and it was awesome. I got my name on some papers and I presented my work at a posterboard session at a conference for undergraduate researchers. It was great. Most of all I got bit by the programming bug. I learned that I loved the control, the empowerment. I was building a little universe inside my computer and creating something of value.
+
+### Off the path... ###
+
+After college ended the best possible thing in the world happened to me: I got rejected for graduate school. I was devastated at the time because I really wanted to be a physicist but in hindsight not spending most of my twenties grinding out a Ph. D. was so much better. I dicked around for a year playing poker and waiting for my then-future-wife to graduate. Her graduation neared and I realized I needed to GTFO of my parents house so I went looking for a job.
+
+I did what it seems most people with physics degrees do nowadays; I went into finance. I started programming for a reinsurance and management consulting company (read: bullshit artist outfit) on an impressingly boring time tracking tool conversion project. They lost my then-profoundly-bad programming "skills" when they ratcheted benefits down to non-existent levels and I got up and moved into the big time.
+
+HEDGE FUNDS (read: bullshit artist outfit)
+
+This is where it was at man. Money central. The world was your oyster. I got way better at programming during this period of my career because I had people screaming in my face when shit got ill. People who care about money *really* care about money and when their programs screw up they will humiliate you in front of 200 people on a trading floor.
+
+The other reason I got better is because I started interacting with people who knew what they were talking about. People spent time *learning* how to do this? People wrote *books* about this? Software development as *craft*? I'd been doing this "professionally" for six months and I was just hacking it together as it came. A friend of mine introduced me to Jeff and Joel's blogs and I was in heaven. All their stuff was brand new to me, and they opened windows and passageways to more awesome stuff. I couldn't have asked for a better education. After I read what they had to offer I started devouring books.
+
+2008 happened and everything got really really dismal. All my friends were getting laid off. Due to my association with the industry the world hated everything about my very existence, and rightly so. The *insane* focus on money and everyone around you trying to figure out how to screw people out of it was sickening. It was a really depressing thing to be a part of. And what did I do after I got laid off in 2009? I re-upped for round 2, OF COURSE.
+
+The money was good and I felt like I didn't have anywhere else to go. Even in the middle of the crisis the recruitment industry in New York would have you believe there isn't a job outside finance anywhere (really, they just don't care about jobs outside finance because the companies with those jobs won't pay the ridiculously gargantuan fees). During this time contingency recruiters became a big fat thorn in my side. It's not that they're bad people, their incentives are just completely at odds with employers and job seekers so they end up doing some shady things.
+
+So I ended up at another hedge fund doing real-time work for the fixed income trading desk.
+
+### A Glimmer ###
+
+You know what else happened in 2008? Stack Overflow was launched. I was looney tunes for this site. It hit every endorphin releasing part of my brain. The game mechanics were great and I was easily hooked. I spent time there each day (even if I wasn't answering) just taking things in. I could do this because while very high pressure, the shops I worked at could get really paralyzed about decisions. This gave me all the underemployment I needed to play my new favorite game.
+
+At the beginning of April 2010 Stack Overflow threw a little shindig at the Fog Creek office. They opened it up to the public so I just had to go. When I met Jeff I introduced myself, "Hi I'm Jason...The Big Green J on Stack Overflow (referring to my gravatar)" AND HE KNEW OF ME. It was insane. We talked for a while and he mentioned they'd be hiring for the Careers team and I threw an off the cuff "I'd love to work on that." I thought (and still do) that we could do "getting a job" much better without all the shady recruiter practices I dealt with getting my first three jobs.
+
+He called Joel over and introduced us at which point they told me to keep my ears open, they'd be announcing the jobs in a month and they'd start reviewing applications. Rock Band ensued, the party wound down and everyone was leaving. I rode the 6 train back to Grand Central with Jeff, Geoff and Jarrod. They wanted to know my story so I told them what I could before they got off at Bleecker.
+
+A month later they posted their Series A blog post with the cattle call and it took me 2 fraking days to respond. What the hell was wrong with me? I figured the job was in such high demand that the game was already over. I threw together my application and sent it in anyway...
+
+> Hi Jeff and Jarrod and Geoff and Joel and whoever else is in there,
+
+> I would consider it an honor for you to consider it an honor to consider me
+> for a job with Stackoverflow (was that enough layers of indirection?).
+>  Hopefully it's obvious that I'm a programmer and that's the job I'm looking
+> for but I could deal with "What's big and grey and proves the uncountability
+> of the reals?" for about a year too :)
+
+> http://careers.stackoverflow.com/JasonPunyon
+
+> Thanks, <br />
+> Jason Punyon aka "The Big Green J"
+
+Silence.
+
+It was the longest 5 days of my life before I got a response asking me for a phone interview. The phoner was with Joel and was pretty standard. We talked about me, something I did that I was proud of, a simple data structures question and that was it. I got an e-mail an hour later asking me to come in for an in person interview. I was in the middle of moving so we scheduled it for a week later.
+
+I was scared shitless of this interview. I thought it was going to be the hardest thing since quantum mechanics. I hit the books hard and studied. I hadn't done C in a while and I knew Fog Creek did their interviews in C and liked to ask questions about pointers and data structures. Remember, I didn't have a CS degree, so I crammed like there was no tomorrow. And interview day came.
+
+### The Big Day
+
+I didn't know what to wear (they didn't clue me in that they didn't care how interviewees dressed), so I suited and tied up and got on the train. It had an emerald city type of feel; this is where the wizards were. I went in and met David and we started the interview.
+
+David opened with a FizzBuzz type question but it was much simpler. Without the method signature and curly braces the solution was 1 line. Felt good. Then the other shoe dropped. On the second question we worked on I froze. I'd gotten the naive solution to the problem and David asked me "Can we make it faster?". I knew the concept to the answer to the question, I just couldn't connect it for some reason. I stared at the sheet of paper we were working on for minutes on end quietly panicking and it struck me to just start talking. This was the key to me getting through the question. Thinking just doesn't do it sometimes. Eventually I talked my way through sucessively faster solutions until we got to the optimal one. I got there but I figured the interview was over.
+
+We went to lunch. 
+
+I met a couple more people in turn and did fine on their questions. Then I was told to go sit on the red couch in the reception area. This is where you sit to sweat it out while people are talking about you. I figured I was a coinflip at best because of how down in flames I went on David's second question. 
+
+Joel came out and wanted to talk to me. SQUEEEE. We went into his office and just talked. There wasn't any assessing of skills going on, we were just chatting about Stack Overflow stuff in general and then it happened.
+
+"We'd love it if you came and worked for us here at Stack Overflow."
+
+Disbelief. Shock. Amazement. Relief. Excitement.
+
+### What did I learn?
+
+Specifically about interviewing: Don't. Freeze. Going into the tank and clamming up tells the interviewer nothing about you. Talking is much *much* better than not talking. Thinking the wrong stuff out loud doesn't make you look stupid, it shows the thought process behind getting to the solution. It's just like a written test. Getting the right answer is good, but showing your work still gets you partial credit. Things that are far away from you always seem more daunting than they are. Each step you take to stack the deck in your favor gets you a little closer and makes things a little less scary.
+
+You aren't that far away from your dreams if you're willing to do a little work and take a little risk to make it happen. Taking a vacation day and going to the party to meet the team and show my interest, riding the train home with them to get an extra chance to talk and get remembered, following up when they announced their openings (even though I thought I was late), cracking the books to make sure I knew what I needed to know to pass the test were all extra work I did to give myself the best possible chance to get where I wanted to go.
+
+### Also...
+
+If you think Stack Exchange is the place for you please don't hesitate to apply, you might surprise yourself. We're currently looking for a [few sharp devs](http://careers.stackoverflow.com/jobs/16279) to join the team in New York and a [search architect](http://careers.stackoverflow.com/jobs/19463).
