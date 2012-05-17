@@ -4,7 +4,7 @@
   <title><![CDATA[Jason Punyon]]></title>
   <link href="http://JasonPunyon.github.com/atom.xml" rel="self"/>
   <link href="http://JasonPunyon.github.com/"/>
-  <updated>2012-05-15T11:04:51-04:00</updated>
+  <updated>2012-05-17T19:19:10-04:00</updated>
   <id>http://JasonPunyon.github.com/</id>
   <author>
     <name><![CDATA[Jason Punyon]]></name>
@@ -14,11 +14,50 @@
 
   
   <entry>
+    <title type="html"><![CDATA[On Counter Offers]]></title>
+    <link href="http://JasonPunyon.github.com/blog/2012/05/17/on-counter-offers/"/>
+    <updated>2012-05-17T19:15:00-04:00</updated>
+    <id>http://JasonPunyon.github.com/blog/2012/05/17/on-counter-offers</id>
+    <content type="html"><![CDATA[<p>Last I left you, dear readers, I had just been given an offer to work my dream job at <a href="http://JasonPunyon.github.com/blog/2012/05/15/how-i-got-my-dream-job-at-stack-exchange/">Stack Exchange</a> by Joel. I accepted the offer on the spot, and went home walking on air. What do you do when you get the offer for your dream job? You go home, crack open a bottle of wine and write your resignation letter.</p>
+
+<p>Acheiving a dream is really liberating. I&#8217;d written a resignation letter before, but it wasn&#8217;t like this. Last time I was leaving one garbage job for one with promise but there was ambivalence instead of the uncontainable excitement I was feeling. I knew things were getting &#8220;better&#8221;, but still didn&#8217;t know what to expect. This time I was typing with purpose and a carefree attitude. Things were gonna be great! I know this sounds silly because resignation letters are generally a one line affair. &#8220;This is my notice that I will be leaving the company effective [notice period] from today.&#8221; I printed out three copies, signed &#8216;em, enveloped &#8216;em and I was ready to go in in the morning and start my new adventure.</p>
+
+<p>I had two bosses. So naturally I printed out three copies. One for each of my bosses and one for the #2 guy at the 1,000 person company that needed one according to the employee handbook (this would be my first interaction with him). I went in to work and boss #1 was already there. I checked the error log and made some quick fix commits while waiting for boss #2 to arrive.</p>
+
+<p>Boss #2 finally got there and I called them both into boss #2&#8217;s office. We sat down and I broke the news to them and the inevitable happened. They started bargaining.</p>
+
+<blockquote><p>Boss #1: &#8220;Well, is there anything we can do to keep you around?&#8221;</p>
+
+<p>Me: &#8220;No. This is my dream job.&#8221;</p>
+
+<p>Boss #2: &#8220;What about $[2X my current salary]&#8221;</p></blockquote>
+
+<p>BOOM. The counter offer and a <strong>doozy</strong> at that. The employer&#8217;s last resort in the face of losing a good employee.</p>
+
+<p>Boss #1&#8217;s eyes went a little wide, remembering that we went through bonus and raise season a few months earlier where he and I had it out over a pittance relative to the current offer on the table. B&amp;R season at hedge funds is a harrowing time for everyone at the company. Almost all productivity stops for a month while secret incantations are spoken in back rooms by big wigs and pointy-headed bosses. The results are never transparent and rarely equitable and good people end up unhappy.</p>
+
+<p>This counter offer reeked of skeeze. He was trying to buy <em>my dreams</em> from me. When someone tells you &#8220;I&#8217;ve been given the opportunity to live my dreams, I&#8217;m leaving&#8221; the <strike>decent</strike> human thing to do is to congratulate them and send them on their way. (With a security escort out the building, of course. You dont know what these dream heads are gonna do on the way out.) What you <em>don&#8217;t</em> do is tell them you think so little of them, their lives and their goals that you think can buy them off.</p>
+
+<p>The only thing the counter offer does is open up the possibility that the employee might take it. In my case I had a really positive reason about another company for leaving. It usually goes the other way though. The employee can have a really negative feeling about their current job, which led them to seek out new employment. Either way, the worst thing that can happen at this point is for the employee to take the counter offer.</p>
+
+<p>If I were to accept the completely out of whack offer on the table, the company would have successfully bought my dreams&#8230;for a little while. Eventually, the hard truth of &#8220;Holy shit, did I really just sell me and my dreams down the river for a couple extra benjamins?&#8221; would get the better of me, and I&#8217;d end up really <em>really</em> unhappy. Bad for me. Over time I&#8217;d become less and less productive and more and more depressed at work and now I cost them minimum twice as much. Bad for the company.</p>
+
+<p>The other case, where the employee is leaving because the company she&#8217;s at sucks is pretty much just as bad. The employee is so unhappy with the company that they&#8217;ve gone to the trouble of updating their resume, getting in the candidate pipeline at at least a few companies, phoners, in person interviews, second in person interviews. They&#8217;ve invested an inordinate amount of time and effort which should tell you, the company, one simple thing. It&#8217;s not them, <em>it&#8217;s you</em>. Again, money might paper things over for a while but the ultimate truth is, they&#8217;re not going to be the awesome employee you want. They&#8217;re going to end up just as unhappy and unproductive after the money wears off as I would&#8217;ve been had I taken it.</p>
+
+<p>The other thing employees have to think about with an outsize counter offer is the fact that it may just simply be a pipe dream. Companies don&#8217;t just allow their managers to get slapped around and make outrageous counter offers to people. Budgets and HR minions can&#8217;t stand that. The manager gets dinged by the higher ups because she&#8217;s &#8220;lost control&#8221;. So some of these offers are just plain &#8220;keep them in the building while we find a replacement who&#8217;ll do the job at the price we were paying.&#8221; As soon as they do that, you&#8217;ll find yourself on your ass without the cushion of the comfy offer you declined to take earlier.</p>
+
+<p>I didn&#8217;t miss a beat when I heard the offer, told Boss #2 &#8220;No,&#8221; and got up and left the room.</p>
+
+<p>There was no way I was going to let this skeezy jerk buy my dreams.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[How I Got My Dream Job at Stack Exchange]]></title>
     <link href="http://JasonPunyon.github.com/blog/2012/05/15/how-i-got-my-dream-job-at-stack-exchange/"/>
     <updated>2012-05-15T11:02:00-04:00</updated>
     <id>http://JasonPunyon.github.com/blog/2012/05/15/how-i-got-my-dream-job-at-stack-exchange</id>
-    <content type="html"><![CDATA[<p>Matt recently wrote his <a href="blog.mattjibson.com/2012/04/How-I-got-a-job-at-Stack-Overflow-8">story</a> about how he got his job at Stack Exchange and I thought it was such a good idea that I&#8217;d go ahead an write my own. This is my long rambling account of my path to my dream job.</p>
+    <content type="html"><![CDATA[<p>Matt recently wrote his <a href="blog.mattjibson.com/2012/04/How-I-got-a-job-at-Stack-Overflow-8">story</a> about how he got his job at Stack Exchange and I thought it was such a good idea that I&#8217;d go ahead and write my own. This is my long rambling account of my path to my dream job.</p>
 
 <h3>Getting bit by the bug</h3>
 
